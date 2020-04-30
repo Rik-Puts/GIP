@@ -5,4 +5,4 @@ The files "colorsys.py" and "MFRC522.py" are just libraries that my program "GIP
 
 If you want to see the project in action you can watch this video: https://www.youtube.com/watch?v=MXBjgymEgLc
 
-Or you could go to the website about this project: www.rik20192020.kogekaschoolverlaters.be
+Or you could go to the website about this project: rik20192020.kogekaschoolverlaters.be
